@@ -1,3 +1,11 @@
+## About me:
+
+I am currently learning TypeScript and Node.js.
+
+## Links:
+
+[Linkedin](https://www.linkedin.com/in/veronika-kravchenko-b02764251?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9ULfCbhvQHSc9B7ZSCAn6A%3D%3D)
+
 ## Languages and Tools
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
