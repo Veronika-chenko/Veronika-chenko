@@ -21,6 +21,8 @@ I am a Junior Full Stack Developer
 ![React Router](https://img.shields.io/badge/React--Router-grey?style=for-the-badge&logo=react-router&logoColor=white)
 ![react-hook-form](https://img.shields.io/badge/react--hook--form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white)
 ![styled components](https://img.shields.io/badge/styled--components-0066B8?style=for-the-badge&logo=styled-components&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFA000?style=for-the-badge&logo=firebase&logoColor=white)
 
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-lightgrey?style=for-the-badge&logo=express&logoColor=white)
@@ -42,7 +44,7 @@ I am a Junior Full Stack Developer
 - [Filmoteka](https://github.com/byht1/filmoteka-team-project) team (html+css+js)
 - [PhoneBook](https://github.com/Veronika-chenko/phonebook-react-app) individual (React)
 - [Contacts](https://github.com/Veronika-chenko/nodejs-course) individual (NodeJS + Express + Jest)
-- [Petly](https://github.com/byht1/node-team-project) team (NestJS + Swagger) [Frontend](https://github.com/byht1/react-team-project)
+- [Petly](https://github.com/byht1/react-team-project) team (React, NestJS + Swagger) [Backend](https://github.com/byht1/node-team-project)
 - [IceCream](https://github.com/byht1/team-project) team (html+css)
 - [Psychology](https://github.com/VladaBoiko/Psychology) team (html+css)
 
