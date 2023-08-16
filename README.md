@@ -25,6 +25,7 @@ I am a Junior Full Stack Developer
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Chakra-UI](https://img.shields.io/badge/Chakra--UI-%23319795.svg?style=for-the-badge&logo=chakra-ui&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React Intl](https://img.shields.io/badge/React_Intl-%232B99D6.svg?style=for-the-badge)
 
 **Backend Technologies:**
@@ -54,6 +55,7 @@ I am a Junior Full Stack Developer
 - [Psychology](https://github.com/VladaBoiko/Psychology) — team (html+scss) | *Multi-page Website*
 - [WebStudio](https://github.com/Veronika-chenko/webstudio) — individual (html+scss+js) | *Landing*
 - [BarberShop](https://github.com/Veronika-chenko/barbershop) — individual (html+scss+js) | *Landing*
+- [Project «Home»](https://github.com/Veronika-chenko/orange-digital-project-test) — individual (html+scss+js) | *Landing*
 - [Flowers](https://github.com/VladaBoiko/Flowers) — team (html+scss+js) | *Multi-page Website*
 - [PhoneBook](https://github.com/Veronika-chenko/phonebook-react-app) — individual (React) | *React App*
 
