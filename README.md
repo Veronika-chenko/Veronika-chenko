@@ -50,18 +50,25 @@ I am a Junior Full Stack Developer
 
 ## My Project Examples:
 
-**Frontend:**
-- [IceCream](https://github.com/byht1/team-project) — team (html+scss) | *Landing*
-- [Psychology](https://github.com/VladaBoiko/Psychology) — team (html+scss) | *Multi-page Website*
-- [WebStudio](https://github.com/Veronika-chenko/webstudio) — individual (html+scss+js) | *Landing*
-- [BarberShop](https://github.com/Veronika-chenko/barbershop) — individual (html+scss+js) | *Landing*
-- [Project «Home»](https://github.com/Veronika-chenko/orange-digital-project-test) — individual (html+scss+js) | *Landing*
-- [Flowers](https://github.com/VladaBoiko/Flowers) — team (html+scss+js) | *Multi-page Website*
-- [PhoneBook](https://github.com/Veronika-chenko/phonebook-react-app) — individual (React) | *React App*
+**Frontend (HTML, CSS, SCSS, JavaScript):**
+- [IceCream](https://github.com/byht1/team-project) — team | *Landing*
+- [Psychology](https://github.com/VladaBoiko/Psychology) — team | *Multi-page Website*
+- [WebStudio](https://github.com/Veronika-chenko/webstudio) — individual | *Landing*
+- [BarberShop](https://github.com/Veronika-chenko/barbershop) — individual | *Landing*
+- [Project «Home»](https://github.com/Veronika-chenko/orange-digital-project-test) — individual | *Main Page*
+- [Protective Face Masks](https://github.com/Veronika-chenko/gulp-mask-project) — individual (Gulp) | *Homepage*
+- [Flowers](https://github.com/VladaBoiko/Flowers) — team (REST API) | *Multi-page Website*
+
+**React:**
+- [Random Quote Generator](https://github.com/Veronika-chenko/random-quote-generator) — individual (Axios, Styled Components)
+- [PhoneBook](https://github.com/Veronika-chenko/phonebook-react-app) — individual (REST API, Redux Toolkit, Chakra UI)
+- [Coffee Feedback Widget](https://github.com/Veronika-chenko/goit-react-hw-04-feedback) — individual (TypeScript, Custom Hooks, Styled Components)
+- [Memory Game](https://github.com/Veronika-chenko/memory-game-react-app) — individual (Custom Hooks, Styled Components)
+- [Bakery](https://github.com/Veronika-chenko/patissier-next-app) — individual (Next.js, Tailwind CSS)
 
 **Full Stack:**
-- **Petly** — team (React, NestJS + MongoDB + Swagger) [Frontend](https://github.com/byht1/react-team-project), [Backend](https://github.com/byht1/node-team-project) | *React App*
-- **Movie Recommendations** — individual (React, Express, Apollo + GraphQL) [Frontend](https://github.com/Veronika-chenko/glq-movies-project-client), [Backend](https://github.com/Veronika-chenko/glq-movies-project-server) | *React App*
+- **Petly** — team (React, REST API, CRUD, NestJS, MongoDB, Swagger) [Frontend](https://github.com/byht1/react-team-project), [Backend](https://github.com/byht1/node-team-project) | *React App*
+- **Movie Recommendations** — individual (React, Material UI, Express, Apollo, GraphQL) [Frontend](https://github.com/Veronika-chenko/glq-movies-project-client), [Backend](https://github.com/Veronika-chenko/glq-movies-project-server) | *React App*
 
 
 ## GitHub Stats:
